@@ -1,4 +1,4 @@
-# 🎮 Dota 2 Data Analysis
+# 🎮 Dota2 Data Analysis
 
 ## 📌 Overview
 This repository contains an exploratory data analysis of Dota 2 match data using Python in a Jupyter Notebook. The project focuses on uncovering gameplay patterns, hero trends, and performance insights through data visualization and statistical summaries to better understand the mechanics and outcomes of matches.
